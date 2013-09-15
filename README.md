@@ -1,4 +1,4 @@
-webb-skola
+webbteknik
 ==========
 
 CV uppgift för C3L
